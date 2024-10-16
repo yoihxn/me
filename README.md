@@ -1,6 +1,6 @@
 # me
-<h1 align="center">Hi 👋, I'm Yoihen</h1>
-<h3 align="center">A Data Science Student from Manipal Institute of Technology</h3>
+<h1 align="center">Hi 👋, I'm Yoihen Elangbam</h1>
+<h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
