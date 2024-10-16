@@ -1,4 +1,3 @@
-# me
 <h1 align="center">Hi 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
