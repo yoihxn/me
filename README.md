@@ -6,7 +6,7 @@
 </div>
 
 <p style="text-align: center;">
-  <a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a>
+  <a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm"></a>
 </p>
 
 - 📝 I often write for [https://medium.com/@meeyamofficial](https://medium.com/@meeyamofficial) (non-cs but sometimes technical)
