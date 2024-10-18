@@ -1,7 +1,7 @@
 <h1 align="center">Hola Amigo 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
-- 📝 I often write for [https://medium.com/@meeyamofficial](https://medium.com/@meeyamofficial)
+- 📝 I often write for [https://medium.com/@meeyamofficial](https://medium.com/@meeyamofficial) (non-cs but sometimes technical)
 
 - 📫 How to reach me **secondaryyoihen@gmail.com**
 
