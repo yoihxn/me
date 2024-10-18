@@ -1,7 +1,7 @@
 <h1 align="center">Hola Amigo 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
-![Funny Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Funny Cat GIF]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://gifdb.com/gif/programming-typing-cat-meme-tjogs4o3p6l1vu0w.html))
 
 - 📝 I often write for [https://medium.com/@meeyamofficial](https://medium.com/@meeyamofficial) (non-cs but sometimes technical)
 
