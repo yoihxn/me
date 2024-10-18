@@ -1,7 +1,13 @@
 <h1 align="center">Hola Amigo 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
-![Coding GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
+</div>
+
+<p style="text-align: center;">
+  <a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a>
+</p>
 
 - 📝 I often write for [https://medium.com/@meeyamofficial](https://medium.com/@meeyamofficial) (non-cs but sometimes technical)
 
