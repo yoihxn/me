@@ -1,23 +1,18 @@
 <h1 align="center">Hola Amigo 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Centered GIF</title>
     <style>
         body {
-            display: flex; /* Use flexbox layout */
-            justify-content: center; /* Center horizontally */
-            align-items: center; /* Center vertically */
+            display: flex;
+            justify-content: center;
+            align-items: center;
             height: 100vh; /* Full height of the viewport */
             margin: 0; /* Remove default margin */
-            background-color: #f0f0f0; /* Optional: background color for visibility */
-        }
-
-        img {
-            max-width: 100%; /* Responsive image */
-            height: auto; /* Maintain aspect ratio */
         }
     </style>
 </head>
@@ -25,7 +20,6 @@
 <body>
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
 </body>
-
 <p style="text-align: center;">
   <a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm"></a>
 </p>
