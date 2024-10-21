@@ -5,12 +5,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Centered GIF</title>
+    <style>
+        body {
+            display: flex; /* Use flexbox layout */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            height: 100vh; /* Full height of the viewport */
+            margin: 0; /* Remove default margin */
+            background-color: #f0f0f0; /* Optional: background color for visibility */
+        }
+
+        img {
+            max-width: 100%; /* Responsive image */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
 </head>
 
 <body>
-    <div style="text-align: center;">
-        <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
-    </div>
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
 </body>
 
 <p style="text-align: center;">
