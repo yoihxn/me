@@ -1,7 +1,7 @@
 <h1 align="center">Hola Amigo 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
-<body>
+<body text-align: center>
     <div style="width:800px; margin:0 auto;">
         <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
     </div>
