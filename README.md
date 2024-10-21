@@ -1,6 +1,12 @@
 <h1 align="center">Hola Amigo 👋, I'm Yoihen Elangbam</h1>
 <h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered GIF</title>
+</head>
+
 <body>
     <div style="text-align: center;">
         <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
