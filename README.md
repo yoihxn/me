@@ -1,5 +1,5 @@
 <h1>Yoihen Elangbam's Read Me</h1>
-<h3 align="center">A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
+<h3>A Data Science Engineering Student (Pre-Final Year) from Manipal Institute of Technology</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
